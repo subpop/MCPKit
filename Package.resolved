@@ -1,0 +1,42 @@
+{
+  "originHash" : "600188195565e1f164889dea83f42455a7513237a9580dbb31a8ff3b3437e93a",
+  "pins" : [
+    {
+      "identity" : "jsonrpckit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/subpop/JSONRPCKit.git",
+      "state" : {
+        "revision" : "994c70d2a5c8dc56f721c779a41ee46e4d60c530",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-docc-plugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-docc-plugin.git",
+      "state" : {
+        "revision" : "647c708be89f834fa6a6d4945442793a77ddf5b6",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swift-docc-symbolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-docc-symbolkit",
+      "state" : {
+        "revision" : "b45d1f2ed151d057b54504d653e0da5552844e34",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "c9c6bb9d275ec0d95c3ad16391f3f045dc623104",
+        "version" : "1.16.2"
+      }
+    }
+  ],
+  "version" : 3
+}
